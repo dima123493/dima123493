@@ -2,7 +2,11 @@
   <img src="https://github.com/dima123493/dima123493/blob/main/assets/giphy.gif" alt="animated" />
 </p>
 
-### Hi there 👋, my name is Dmytro
+## I'm beginner but promising QA Automation Engineer
+
+### Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima123493&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
