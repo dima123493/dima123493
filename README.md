@@ -1,4 +1,7 @@
-<div style="text-align: center;">![Header](https://github.com/dima123493/dima123493/blob/main/assets/giphy.gif)</div>
+<p align="center">
+  <img src="https://github.com/dima123493/dima123493/blob/main/assets/giphy.gif" alt="animated" />
+</p>
+
 ### Hi there 👋, my name is Dmytro
 
 <!--
