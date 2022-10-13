@@ -1,3 +1,4 @@
+![Header](https://github.com/dima123493/dima123493/blob/main/assets/giphy.gif)
 ### Hi there 👋, my name is Dmytro
 
 <!--
