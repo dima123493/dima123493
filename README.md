@@ -4,7 +4,7 @@
 
 ## I'm beginner but promising QA Automation Engineer
 
-#### I would LOVE to share with you what I learned!
+#### I would LOVE to share with you what I have learned!
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/Java-FF8B00?style=for-the-badge&logo=Java)
