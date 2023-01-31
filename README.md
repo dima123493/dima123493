@@ -8,6 +8,7 @@
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/Java-FF8B00?style=for-the-badge&logo=Java)
+![Java](https://www.java.com)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
