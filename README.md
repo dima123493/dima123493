@@ -26,8 +26,18 @@
 ### Profile stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima123493&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### You can reach me via
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytrozubenko/)
+### Contact me
+<div id="contacts">
+  <a href="https://www.linkedin.com/in/dmytrozubenko/">
+    <img src="https://github.com/dima123493/dima123493/blob/main/assets/linkedIn%20logo.png" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/dmytro_zubenko">
+    <img src="https://github.com/dima123493/dima123493/blob/main/assets/telegram%20logo.png" width="50" height="50" alt="Telegram"/>
+  </a>
+  <a href="skype:dima.zubenko1?chat">
+    <img src="https://github.com/dima123493/dima123493/blob/main/assets/skype%20logo.png" width="50" height="50" alt="Skype"/>
+  </a>
+</div>
 
 <!-- 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
