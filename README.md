@@ -16,20 +16,20 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="" alt="fiddler" width="40" height="40"/> </a> 
-<a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="" alt="Charles Proxy" width="40" height="40"/> </a> 
+<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/Fiddler-Classic-Icon.png" alt="fiddler" width="40" height="40"/> </a> 
+<a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/charlesproxy%20logo.png" alt="Charles Proxy" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://selenide.org" target="_blank" rel="noreferrer"> <img src="" alt="selenide" width="40" height="40"/> </a>
-<a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="" alt="cucumber" width="40" height="40"/> </a>
+<a href="https://selenide.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/selenide%20logo.png" alt="selenide" width="40" height="40"/> </a>
+<a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/cucumber-logo.png" alt="cucumber" width="40" height="40"/> </a>
 <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/playwright.svg" alt="playwright" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Testing frameworks:</h3>
 <p align="left"> 
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="" alt="JUnit5" width="40" height="40"/> </a>
-<a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="" alt="TestNG" width="40" height="40"/> </a>
-<a href="https://rest-assured.io" target="_blank" rel="noreferrer"> <img src="" alt="Rest-Assured" width="40" height="40"/> </a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/junit-5-logo.png" alt="JUnit5" width="40" height="40"/> </a>
+<a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/testNG%20logo.png" alt="TestNG" width="40" height="40"/> </a>
+<a href="https://rest-assured.io" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/rest-assured%20logo.png" alt="Rest-Assured" width="40" height="40"/> </a>
 </p>
 
 ### Profile stats
