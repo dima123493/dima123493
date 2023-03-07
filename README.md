@@ -15,7 +15,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/mongoDB-logo.png" alt="mongoDB" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.soapui.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/soapui_logo.png" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/Fiddler-Classic-Icon.png" alt="fiddler" width="40" height="40"/> </a> 
 <a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/charlesproxy%20logo.png" alt="Charles Proxy" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
