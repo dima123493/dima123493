@@ -2,14 +2,15 @@
   <img src="https://github.com/dima123493/dima123493/blob/main/assets/giphy.gif" alt="animated" />
 </p>
 
-## I'm beginner but promising QA Automation Engineer
+## 🚀 Aspiring QA Automation Engineer on a Journey to Mastery
 
-#### I would LOVE to share with you what I have learned!
+📘 Passionate about continuous learning, eager to share insights, and committed to building robust, reliable, and scalable testing solutions.
 
-<h3 align="left">Languages and Tools:</h3>
+I'm Dmytro Zubenko, a budding QA Automation Engineer with a hunger for knowledge and a love for innovation. While my journey has just begun, my dedication to mastering the craft is unwavering. Every project I take on is a stepping stone toward becoming a seasoned expert in the field.
+
+<h3 align="left">🛠️ Languages and Tools I Work With:</h3>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -24,10 +25,11 @@
 <a href="https://selenide.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/selenide%20logo.png" alt="selenide" width="40" height="40"/> </a>
 <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/cucumber-logo.png" alt="cucumber" width="40" height="40"/> </a>
 <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/playwright.svg" alt="playwright" width="40" height="40"/> </a>
+<a href="https://www.karatelabs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/karate-logo.png" alt="karate" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Testing frameworks:</h3>
+<h3 align="left">🔧 Testing Frameworks I Utilize:</h3>
 <p align="left"> 
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/junit-5-logo.png" alt="JUnit5" width="40" height="40"/> </a>
 <a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dima123493/dima123493/blob/main/assets/testNG%20logo.png" alt="TestNG" width="40" height="40"/> </a>
@@ -38,11 +40,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima123493&layout=compact)
 
 ### Contact me
-<div id="contacts">
-  <a href="https://www.linkedin.com/in/dmytrozubenko/">
-    <img src="assets/linkedIn logo.png" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/dmytro_zubenko">
-    <img src="assets/telegram logo.png" width="50" height="50" alt="Telegram"/>
-  </a>
+<div id="contacts"> 
+<a href="https://www.linkedin.com/in/dmytrozubenko/"> <img src="assets/linkedIn logo.png" width="50" height="50" alt="LinkedIn"/> </a> 
+<a href="https://t.me/dmytro_zubenko"> <img src="assets/telegram logo.png" width="50" height="50" alt="Telegram"/> </a> 
 </div>
