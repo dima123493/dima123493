@@ -4,7 +4,7 @@
 
 ## 🚀 Aspiring QA Automation Engineer on a Journey to Mastery
 
-📘 Passionate about continuous learning, eager to share insights, and committed to building robust, reliable, and scalable testing solutions.
+📘 Passionate about continuous learning, eager to learn about new insights, and committed to building robust, reliable, and scalable testing solutions.
 
 I'm Dmytro Zubenko, a budding QA Automation Engineer with a hunger for knowledge and a love for innovation. While my journey has just begun, my dedication to mastering the craft is unwavering. Every project I take on is a stepping stone toward becoming a seasoned expert in the field.
 
